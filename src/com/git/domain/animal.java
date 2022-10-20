@@ -6,8 +6,9 @@ package com.git.domain;
  */
 public class animal {
 
-
-    private String a;
+    private String female;
     private String name;
+//    2.0
+    private int age;
 
 }
