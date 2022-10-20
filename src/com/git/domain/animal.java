@@ -8,7 +8,12 @@ public class animal {
 
     private String female;
     private String name;
-//    2.0
+//    3.0
     private int age;
 
+    public animal(String female, String name, int age) {
+        this.female = female;
+        this.name = name;
+        this.age = age;
+    }
 }
