@@ -11,4 +11,6 @@ public class animal {
 //    2.0
     private int age;
 
+    public animal() {
+    }
 }
